@@ -1,0 +1,56 @@
+.header {
+    background-color: rgba(189, 94, 39, 0.319);   
+}
+
+.header-font {
+    color:dimgray;
+    
+}
+
+.nav-link {
+    color:dimgray;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+
+.image {
+    width: 100%;
+    
+} 
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    color:dimgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+p {
+    color:dimgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+    text-decoration:underline;
+}
